@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+  The following may differ depending on the latest version of 
+  .NET Core or Discord.Net.
+  -->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.4.0" />
+    <PackageReference Include="Discord.Net.Commands" Version="2.4.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0-preview.7.21377.19" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0-preview.7.21377.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Modules\" />
+  </ItemGroup>
+
+</Project>

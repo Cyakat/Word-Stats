@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\plugins.csproj": {}
+    "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\Word-Stats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\plugins.csproj": {
+    "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\Word-Stats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\plugins.csproj",
-        "projectName": "plugins",
-        "projectPath": "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\plugins.csproj",
+        "projectUniqueName": "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\Word-Stats.csproj",
+        "projectName": "Word-Stats",
+        "projectPath": "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\Word-Stats.csproj",
         "packagesPath": "C:\\Users\\tiko_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tiko_\\Desktop\\oat yeah\\discord bots\\Word-Stats\\obj\\",
         "projectStyle": "PackageReference",
@@ -21,7 +21,7 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -43,9 +43,17 @@
               "target": "Package",
               "version": "[2.4.0, )"
             },
-            "Extensions": {
+            "Discord.Net.Commands": {
               "target": "Package",
-              "version": "[1.0.5, )"
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0-preview.7.21377.19, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.7.21377.19, )"
             }
           },
           "imports": [
