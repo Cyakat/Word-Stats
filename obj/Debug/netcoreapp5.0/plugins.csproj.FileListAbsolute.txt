@@ -1,5 +1,0 @@
-/home/tiko/Word-Stats/obj/Debug/netcoreapp5.0/plugins.csproj.AssemblyReference.cache
-/home/tiko/Word-Stats/obj/Debug/netcoreapp5.0/plugins.GeneratedMSBuildEditorConfig.editorconfig
-/home/tiko/Word-Stats/obj/Debug/netcoreapp5.0/plugins.AssemblyInfoInputs.cache
-/home/tiko/Word-Stats/obj/Debug/netcoreapp5.0/plugins.AssemblyInfo.cs
-/home/tiko/Word-Stats/obj/Debug/netcoreapp5.0/plugins.csproj.CoreCompileInputs.cache
