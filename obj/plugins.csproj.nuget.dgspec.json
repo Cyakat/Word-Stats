@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tiko/Word-Stats/plugins.csproj": {}
+  },
+  "projects": {
+    "/home/tiko/Word-Stats/plugins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tiko/Word-Stats/plugins.csproj",
+        "projectName": "plugins",
+        "projectPath": "/home/tiko/Word-Stats/plugins.csproj",
+        "packagesPath": "/home/tiko/.nuget/packages/",
+        "outputPath": "/home/tiko/Word-Stats/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tiko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Extensions": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTzPgFSF4grH+0xQ7nkG4C2V3qRlVPf/mZD8M+f0HXeQeLG+VogdBbGKepzvKG3brlvZQbL2WPUxtt0jw5qeHA==",
+  "success": true,
+  "projectFilePath": "/home/tiko/Word-Stats/plugins.csproj",
+  "expectedPackageFiles": [
+    "/home/tiko/.nuget/packages/discord.net/2.4.0/discord.net.2.4.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/discord.net.commands/2.4.0/discord.net.commands.2.4.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/discord.net.core/2.4.0/discord.net.core.2.4.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/discord.net.rest/2.4.0/discord.net.rest.2.4.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/discord.net.webhook/2.4.0/discord.net.webhook.2.4.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/discord.net.websocket/2.4.0/discord.net.websocket.2.4.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/extensions/1.0.5/extensions.1.0.5.nupkg.sha512",
+    "/home/tiko/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.collections.immutable/1.3.1/system.collections.immutable.1.3.1.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.interactive.async/4.0.0/system.interactive.async.4.0.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.linq.async/4.0.0/system.linq.async.4.0.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/home/tiko/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Extensions 1.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
